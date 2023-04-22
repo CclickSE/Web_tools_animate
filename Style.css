@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+#typewriter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
